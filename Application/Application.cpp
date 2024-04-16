@@ -6,7 +6,7 @@
 
 // my fake comment
 
-CoolClass::CoolClass(void)
+CoolClass::CoolClass(void) }}
 {
 
 
